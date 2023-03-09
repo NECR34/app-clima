@@ -1,0 +1,46 @@
+
+.navbar {
+  background-color: rgb(153, 192, 211);
+  margin-bottom: 5px;
+}
+
+.app{
+  background-color: antiquewhite;
+}
+
+.post-cart{
+  margin-top: 5px;
+}
+
+.card {
+  max-width: 60%;
+  margin-bottom: 3px;
+  margin: auto;
+  background-color: rgb(138, 207, 207);
+  
+}
+
+.card-title{
+  position: absolute;
+  padding: 20px;
+  text-align: center;
+}
+
+.card-date{
+  position: absolute;
+  padding: 20px;
+  margin-top: 60px;
+}
+
+.card-temp{
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 260px;
+  font-size: 20px;
+}
+
+.card-desc{
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 320px;
+}
